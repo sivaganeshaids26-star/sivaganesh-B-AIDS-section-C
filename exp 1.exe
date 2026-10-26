@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main()
+{int a,b,res,choice;
+printf("=====BITWISE OPERATIONS=====\n");
+printf("Enter the first number");
+}
